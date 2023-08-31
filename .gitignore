@@ -1,0 +1,9 @@
+
+.vs/**
+.vs/**
+Api/bin/**
+Api/obj/**
+Client/obj/**
+Client/bin/**
+IdentityServer/bin/**
+IdentityServer/obj/**
